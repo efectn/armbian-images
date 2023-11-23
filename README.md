@@ -3,4 +3,4 @@
 
 This is now a community supported build.
 
-Download: https://github.com/amazingfate/armbian-h68k-images/releases/latest
+Download: https://github.com/amazingfate/armbian-h68k-images/releases/ölatest
