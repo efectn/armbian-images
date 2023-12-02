@@ -33,10 +33,10 @@ jobs:
     needs: prepare_release
     strategy:
       matrix:
-        BOARD: [yy3568]
+        BOARD: [rock-5b]
         DISTRO: [armbian]
         FLAVOR: [ubuntu]
-        BRANCH: [legacy]
+        BRANCH: [edge]
     steps:
       - name: Checkout
         uses: actions/checkout@v2
