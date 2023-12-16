@@ -33,7 +33,7 @@ jobs:
     needs: prepare_release
     strategy:
       matrix:
-        BOARD: [rock-5b]
+        BOARD: [orangepi5]
         DISTRO: [armbian]
         FLAVOR: [ubuntu]
         BRANCH: [edge]
