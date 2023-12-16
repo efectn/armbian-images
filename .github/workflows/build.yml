@@ -36,7 +36,7 @@ jobs:
         BOARD: [orangepi5]
         DISTRO: [armbian]
         FLAVOR: [ubuntu]
-        BRANCH: [edge]
+        BRANCH: [legacy]
     steps:
       - name: Checkout
         uses: actions/checkout@v2
