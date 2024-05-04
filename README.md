@@ -1,4 +1,4 @@
-# Armbian images for H68
+# Armbian images for H68ö
 [![image_build](https://github.com/amazingfate/armbian-h68k-images/workflows/Build/badge.svg)](https://github.com/amazingfate/armbian-h68k-images/actions/workflows/build.yml)
 
 This is now a community supported build.
